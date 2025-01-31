@@ -4,6 +4,6 @@ Customizable code walker for Common Lisp. Uses CLOS and ContextL.
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/hu-dwim/hu.dwim.walker.git |
-| commit  | a4fd342                                           |
+| commit  | e017af7                                           |
 | systems | hu.dwim.walker                                    |
 |---------+---------------------------------------------------|
